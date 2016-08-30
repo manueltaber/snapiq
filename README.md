@@ -1,4 +1,4 @@
 # snapiq
 share your knowledge
 
-Private project ;)
+Unfortunately a private project ;)
